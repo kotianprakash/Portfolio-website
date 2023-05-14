@@ -1,0 +1,1 @@
+This website is designed to showcase the projects and skills in an organized and visually appealing way. I used HTML, CSS, and JavaScript to create this website and have included several features to enhance user experience
